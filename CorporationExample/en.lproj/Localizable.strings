@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  CorporationExample
+
+  Created by Fernando Moya De Rivas on 13/6/17.
+  Copyright © 2017 Fernando Moya De Rivas. All rights reserved.
+*/
+"MAIN_USER_TEXT_FIELD_HINT" = "user"
+"MAIN_PASS_TEXT_FIELD_HINT" = "password"
+"MAIN_LOG_IN_BUTTON_TEXT" = "Log In"
